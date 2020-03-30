@@ -32,3 +32,5 @@ print("전일:"+close+"\n")
 print("고가:"+high+"\n")
 print("시가:"+open+"\n")
 print("저가:"+low+"\n")
+
+
