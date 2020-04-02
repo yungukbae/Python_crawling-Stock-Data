@@ -47,3 +47,4 @@ for item in company_code:
     candle_chart = get_candle_chart(item)
     print(candle_chart)
 
+#test
